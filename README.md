@@ -1,2 +1,2 @@
-# Projects
-* Project 1 is a Tictactoe game that i have built using Java.
+# TictacToe
+* This project is a Tictactoe game that i have built using Java.
